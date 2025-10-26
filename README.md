@@ -190,12 +190,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-- **Author**: Khaled Moselmany
-- **Email**: khaled.moselmany@example.edu
-- **Course**: Neural Networks in Brains and Computers (7CP)
-- **Institution**: University of Example
+- **Author**: Mohammad Khaled Moselmany
+- **Email**: momo00006@stud.uni-saarland.de
+- **Course**: Neural Networks in Brains and Computers 
+- **Institution**: Saarland University
 
 ---
 
-**Note**: This is a seminar project demonstrating systematic comparison frameworks for brain-model alignment research. The emphasis is on methodological contributions and honest statistical reporting rather than proving specific hypotheses.
+
 
